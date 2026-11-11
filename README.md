@@ -17,7 +17,7 @@ This repository contains examples of Object-Oriented Programming (OOP) concepts 
 To get started with this project, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/prince981620/oops.git
+git clone https://github.com/princedotrs/oops.git
 cd oops
 npm install
 ```
